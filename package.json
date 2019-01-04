@@ -1,0 +1,13 @@
+{
+  "name": "euler",
+  "version": "1.0.0",
+  "description": "just for practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": "git@github.com:aaronmgdr/euler.git",
+  "author": "Aaron DeRuvo <aaron.deruvo@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
